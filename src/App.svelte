@@ -26,7 +26,7 @@
             <div class="card shadow-sm">
                 <div class="card-body text-center">
 					<img src="https://www.publicdomainpictures.net/pictures/320000/velka/coronavirus-infection-clip-art.jpg" alt="" style="max-width: 100%;">
-                    <p class="mb-0 lead">Raste</p>
+                    <p class="mb-0 lead">ALPETI OSHT GEJ :)))))))))))))))) ALPETI OSHT GEJ :)))) ALPETI OSHT GEJ :))) APLETI OSHT GEJ</p>
                     <h1 class="mb-0">{data.cases}</h1>
                 </div>
             </div>
